@@ -12,7 +12,7 @@ spec:
         name: springboot
     spec:
       containers:
-      - image: bondalive/spring-boot-mango
+      - image: bondalive/spring-boot-mongo
         name: springboot
         ports:
         - name: springboot
